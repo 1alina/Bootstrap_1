@@ -1,0 +1,52 @@
+.header {
+    /* background-color: black; */
+    color: white;
+    height: 90vh;
+    width: 100%;
+    background: linear-gradient( to right,rgb(62,32,233,1) ,  rgba(250, 64, 64, 0.5) ), url(https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+
+.h-100 {
+    height: 100%;
+    width: 100%;
+}
+body{
+
+    font-family: 'Lato', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Tiro Telugu', serif;
+    /* font-family: 'Lato', sans-serif; */
+    /* font-family: 'Lobster', cur:sive;; */
+}
+.btn{
+    border-radius: 10rem;
+    padding: 1.25rem 2.24rem;
+}
+.message{
+    padding: 20px;
+    background-color: antiquewhite;
+    background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%);
+}
+.card{
+
+    background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+}
+.About{
+    background-color: #ffe6fa7c;
+}
+.download,.links{
+    padding: 20px;
+    background-color: antiquewhite;
+    background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%);
+}
+a{
+    color:red;
+}
+a:hover{
+    transform: scale(0.9);
+    color: turquoise;
+}
+.footer{
+    color: white;
+}
